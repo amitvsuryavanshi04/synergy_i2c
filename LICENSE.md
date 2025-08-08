@@ -12,9 +12,9 @@ This project and all its source code are the intellectual property of:
 **KVLSI SYNERGY TEAM - 04**  
 🧑‍💼 J R Mahesh (Team Leader)  
 👨‍💻 Karan S  
-👨‍💻 V Thathrathrayan  
-👨‍🔧 Dhanapal K  
-🧑‍🔬 Amit *(Myself)*  
+👨‍💻 V Thathrathrayan         : **https://github.com/Thathrathrayan**
+👨‍🔧 Dhanapal K               : **https://github.com/Dhanapalgithub** 
+🧑‍🔬 Amit *(Myself)*          : **https://github.com/amitvsuryavanshi04**
 
 **© 2025 – All Rights Reserved**
 
