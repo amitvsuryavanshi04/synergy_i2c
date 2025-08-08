@@ -2,6 +2,6 @@
 ## Team Members list 
 - J R Mahesh (Team Leader)
 - Karan S
-- V Thathrathrayan 
-- Dhanapal K 
-- Amit (Myself)
+- V Thathrathrayan          : **https://github.com/Thathrathrayan** 
+- Dhanapal K                : **https://github.com/Dhanapalgithub** 
+- Amit (Myself)             : **https://github.com/amitvsuryavanshi04** 
